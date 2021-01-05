@@ -1,0 +1,36 @@
+*{
+  font-family: "Permanent Marker", cursive;
+}
+
+.logo {
+  width: 150px;
+}
+/*Navbar */
+.kennylogo {
+  width: 80px;
+}
+.home {
+  background-color: #bd022c;
+}
+.features {
+  background-color: #945b47;
+}
+
+.navbar {
+  padding-right: 70px;
+}
+.shop {
+  background-color: #ee590f;
+}
+.more {
+  background-color: #56dd12;
+}
+.space {
+  margin-left: 60px;
+}
+.fragman {
+  width: 50%;
+}
+.img {
+  width: 100%;
+}
